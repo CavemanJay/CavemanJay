@@ -87,6 +87,101 @@
   </a>
 </p>
 
+<h3 align="left">Frameworks:</h3>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
+      alt="electron"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.solidjs.com/assets/logo-123b04bc.svg"
+      alt="solidjs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://github.com/Gallopsled/pwntools"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://blog.pwntools.com/img/logo.png"
+      alt="pwntools"
+      width="40"
+      height="40"
+    /> </a
+  ><a href="https://tauri.app/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/tauri-apps/tauri/raw/dev/app-icon.png"
+      alt="tauri"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
+
+<h3 align="left">Databases:</h3>
+<p align="left">
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
+      alt="sqlite"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://www.microsoft.com/en-us/sql-server"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
+      alt="mssql"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
+
 <h3 align="left">Tools:</h3>
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -145,70 +240,10 @@
       height="40"
     />
   </a>
-  <a href="https://tauri.app/" target="_blank" rel="noreferrer">
-    <img
-      src="https://github.com/tauri-apps/tauri/raw/dev/app-icon.png"
-      alt="tauri"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
-      alt="electron"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
-      alt="mariadb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://www.microsoft.com/en-us/sql-server"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-      alt="mssql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
       width="40"
       height="40"
     />
@@ -229,10 +264,10 @@
       height="40"
     />
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+      alt="redis"
       width="40"
       height="40"
     />
@@ -249,14 +284,6 @@
       height="40"
     />
   </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-      alt="redis"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
@@ -265,18 +292,18 @@
       height="40"
     />
   </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-      alt="sqlite"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
       alt="jenkins"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://zellij.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://zellij.dev/img/logo.png"
+      alt="zellij"
       width="40"
       height="40"
     />
